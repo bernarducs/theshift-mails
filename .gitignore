@@ -1,0 +1,7 @@
+# files
+.env
+src/outputs/*.json
+src/**/*.pyc
+
+# directories
+ve/
