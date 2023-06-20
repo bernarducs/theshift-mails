@@ -1,6 +1,6 @@
 # files
 .env
-src/outputs/*.json
+# src/outputs/*.json
 src/**/*.pyc
 
 # directories
